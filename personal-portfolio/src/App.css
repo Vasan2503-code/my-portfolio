@@ -39,12 +39,10 @@ body{
 .profilePic{
     width: fit-content;
     height: fit-content;
-    background-color: #e0ddd6;
-    border-radius: 20%;
     img{
         width:300px;
         height: 300px;
-        border-radius: 1%;
+        border-radius: 50%;
     }
 }
 .MainHero{

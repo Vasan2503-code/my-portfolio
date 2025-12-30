@@ -35,7 +35,7 @@ function Hero() {
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 1, delay: 0.3 }}
       >
-        <img src="src/assets/pic-remove.png" alt="profile" />
+        <img src="src/assets/dp.webp" alt="profile" />
       </motion.div>
 
     </div>
