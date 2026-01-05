@@ -52,7 +52,7 @@ function Projects(){
         </a>
 
          <a
-          href="https://github.com/yourusername/hotel-booking-console"
+          href="https://github.com/Vasan2503-code/Hotel-Room-Booking-System---Console-Based.git"
           target="_blank"
           rel="noopener noreferrer"
           className="project-link"
