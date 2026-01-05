@@ -13,21 +13,9 @@ function Resume() {
       <h2>Resume</h2>
       <p>Download my resume to know more about my skills and experience.</p>
 
-      <a
-    href="/resume.pdf"
-    target="_blank"
-    rel="noopener noreferrer"
-    style={{
-      padding: "12px 24px",
-      background: "#fb2576",
-      color: "#fff",
-      borderRadius: "30px",
-      textDecoration: "none",
-      display: "inline-block"
-    }}
-  >
-  </a>
+      <a href="/resume.pdf"  target="_blank" rel="noopener noreferrer" className="resume-btn">
         <FaDownload /> Download Resume
+      </a>
     </motion.div>
   );
 }
