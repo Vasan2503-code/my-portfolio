@@ -96,10 +96,11 @@ body {
 }
 
 .profilePic img {
-  width: clamp(180px, 90vw, 300px);
-  height: clamp(180px, 90vw, 300px);
-  border-radius: 50%;
+  width: clamp(210px, 100vw, 300px);
+  height: clamp(250px, 100vw, 300px);
+  border-radius: 5%;
   object-fit: cover;
+  object-position: center 20%;
 }
 
 .Icons {

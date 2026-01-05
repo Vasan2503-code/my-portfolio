@@ -13,7 +13,7 @@ function Resume() {
       <h2>Resume</h2>
       <p>Download my resume to know more about my skills and experience.</p>
 
-      <a href="/resume.pdf" download className="resume-btn">
+      <a href="/Srinivasan_D Resume.pdf" download className="resume-btn">
         <FaDownload /> Download Resume
       </a>
     </motion.div>
