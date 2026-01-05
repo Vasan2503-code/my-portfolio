@@ -429,6 +429,9 @@ span {
   text-decoration: none;
   transition: 0.3s ease;
   white-space: nowrap;
+  position: relative;
+  z-index: 10;
+  pointer-events: auto;
 }
 
 .resume-btn:hover {
@@ -436,6 +439,11 @@ span {
   transform: scale(1.05);
   box-shadow: 0 0 15px rgba(251, 37, 118, 0.6);
 }
+.resume-section {
+  position: relative;
+  z-index: 1;
+}
+
 
 @media (max-width: 600px) {
   .resume {
